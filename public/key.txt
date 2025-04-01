@@ -1,0 +1,12 @@
+1: paladin
+2: druid
+3: wizard
+4: cleric
+5: monk
+6: barbarian
+7: rogue
+8: ranger
+9: bard
+10: fighter
+11: sorcerer
+12: warlock

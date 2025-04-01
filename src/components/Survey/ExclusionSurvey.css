@@ -1,0 +1,13 @@
+.question-conatainer{
+    transition: opacity .5s;
+    position: absolute;
+}
+
+.question-conatainer.active{
+    opacity: 1;
+}
+
+.question-conatainer.inactive{
+    opacity: 0;
+    pointer-events: none;
+}
